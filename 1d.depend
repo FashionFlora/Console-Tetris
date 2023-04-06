@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1607689777 source:c:\users\kacper\desktop\ki\1d\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<fstream>
+	<string>
+	<thread>
+	<mutex>
+	<functional>
+	<chrono>
+
+1644265807 source:f:\tetris first project\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<fstream>
+	<string>
+	<thread>
+	<mutex>
+	<functional>
+	<chrono>
+

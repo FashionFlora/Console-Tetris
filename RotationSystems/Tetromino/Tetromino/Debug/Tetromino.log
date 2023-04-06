@@ -1,0 +1,4 @@
+﻿  Tetromino.cpp
+C:\Users\Kacper\source\repos\Tetromino\Tetromino\Tetromino.cpp(32,11): warning C4101: 'new_x': unreferenced local variable
+C:\Users\Kacper\source\repos\Tetromino\Tetromino\Tetromino.cpp(33,10): warning C4101: 'new_y': unreferenced local variable
+  Tetromino.vcxproj -> C:\Users\Kacper\source\repos\Tetromino\Debug\Tetromino.exe
